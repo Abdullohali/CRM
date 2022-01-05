@@ -1,6 +1,5 @@
 import 'package:crm_project/components/pacgages.dart';
-import 'package:crm_project/screens/next_sign_in_page.dart';
-import 'package:crm_project/screens/sign_up_page.dart';
+
 
 class SignInPage extends StatelessWidget {
   const SignInPage({Key? key}) : super(key: key);

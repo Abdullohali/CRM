@@ -6,3 +6,6 @@ export 'package:crm_project/widget/button.dart';
 export 'package:crm_project/widget/textfield.dart';
 export 'package:flutter/material.dart';
 export 'package:google_fonts/google_fonts.dart';
+export 'package:crm_project/screens/nextSignIn/next_sign_in_page.dart';
+export 'package:crm_project/screens/signup/sign_up_page.dart';
+export 'package:crm_project/screens/signin/sign_in_page.dart';
